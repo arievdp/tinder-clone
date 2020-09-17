@@ -2,7 +2,7 @@
 
 A clone of Tinder, built as a personal project to learn more about React.
 
-url: tinder-clone-e02d5.web.app/
+url: https://tinder-clone-e02d5.web.app/
 
 Tinder Clone was built using:
 - React
